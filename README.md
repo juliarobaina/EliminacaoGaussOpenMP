@@ -1,4 +1,5 @@
 <h1>MetodosNumericos-2023.1</h1>
+<p>Alunos: Julia Souza Robaina Gomes, Lucas Feitosa Damazio e Fellipe Carreiro de Oliveira</p>
 <h2>Implementação do algoritmo de eliminação de Gauss utilizando OpenMP</h2>
 <h3>Primeiro, compile o código geraMatrizes.c</h3>
   <p>Exemplo: <code>gcc geraMatrizes.c -o geraMat</code></p>

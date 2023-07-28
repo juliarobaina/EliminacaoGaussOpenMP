@@ -22,8 +22,8 @@ int main(int argc, char *argv[])
 {
     srand(time(NULL));
 
-    FILE *matrizA = fopen("G.txt", "w"),
-         *vetorB = fopen("H.txt", "w");
+    FILE *matrizA = fopen("A.txt", "w"),
+         *vetorB = fopen("B.txt", "w");
 
     randomizaArquivo(matrizA, vetorB, atoi(argv[1]));
 

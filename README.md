@@ -1,6 +1,6 @@
-# MetodosNumericos-2023.1
-## Implementação do algoritmo de eliminação de Gauss utilizando OpenMP
-### Primeiro, compile o código geraMatrizes.c
+<h1>MetodosNumericos-2023.1</h1>
+<h2>Implementação do algoritmo de eliminação de Gauss utilizando OpenMP</h2>
+<h3>Primeiro, compile o código geraMatrizes.c</h3>
   <p>Exemplo: <code>gcc geraMatrizes.c -o geraMat</code></p>
 <h3>Segundo, execute o código informando a ordem da matriz</h3>
   <p>Exemplo: ./geraMat 2000</p>
